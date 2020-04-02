@@ -1,1 +1,1 @@
-# itmo.digitalculture.sem01
+# itmo.digitalculture
