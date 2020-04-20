@@ -1,1 +1,1 @@
-# itmo.digitalculture
+# itmo.digitalculture / Python
